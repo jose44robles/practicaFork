@@ -9,3 +9,6 @@ discocarol1
 discocarol2
 discocarol3
 
+discoJose1
+discojose2
+discojose3

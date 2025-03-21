@@ -7,3 +7,6 @@ librocarol1
 librocarol2
 librocarol3
 
+libroJose1
+libroJose2
+librojose3
